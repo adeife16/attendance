@@ -29,7 +29,7 @@
             </div>
           </div>
         </div>
-      </div>
+
     <div class="row justify-content-center">
         <div class="col-xl-8 col-lg-8 col-md-8 col-sm-12">
             <div class="card">

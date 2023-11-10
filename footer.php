@@ -61,6 +61,13 @@
   <script type="text/javascript" src="js/attendance.js"></script>
 <?php endif ?>
 
+
+<?php if ($title == "History"): ?>
+  <link rel="stylesheet" type="text/css" href="vendor/select/css/select2.min.css">
+  <script type="text/javascript" src="vendor/select/js/select2.min.js"></script>
+  <script type="text/javascript" src="js/history.js"></script>
+<?php endif ?>
+
 </body>
 
 </html>
