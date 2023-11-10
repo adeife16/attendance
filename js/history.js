@@ -39,6 +39,7 @@ function getHistory(course, date){
 			showHistory(res.data);
 		}
 		else{
+			$(".summary").html('')
 			$("#proData").html('<tr><td colspan="3" align="center"><h4 class="text-danger">No Attendance Record Found</h4></td></tr>')
 		}
 	})
